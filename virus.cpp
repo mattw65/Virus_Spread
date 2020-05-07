@@ -1,5 +1,4 @@
-//Matt Walsh (mw6es)
-//mw6es_virus_batch.cpp
+//Matt Walsh 
 
 /*This is the file i used for my batch jobs. 100 experiments takes about 25 minutes. Command line should be ./a.out {num experiments} {rand seed} */
 
